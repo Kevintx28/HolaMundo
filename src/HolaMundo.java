@@ -16,13 +16,13 @@ public class HolaMundo {
             numero2 = 11 ;
         }
         System.out.println("numero2 = " + numero2);
-        var numero3 = "15";
+        var numero3 = "10";
 
         String nombre ;
 
         nombre = "andres" ;
 
-        if(numero >10){
+        if(numero >8){
             nombre = "juan";
         }
 
