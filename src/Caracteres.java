@@ -8,6 +8,8 @@ public class Caracteres {
         System.out.println("decimal = " + decimal);
         System.out.println("decimal = caracter; " + (decimal == caracter));
 
+        System.out.println("----------------------------------------------------------------------------------------------------------------");
+
         char simbolo = '@' ;
         System.out.println("simbolo = " + simbolo);
         System.out.println("simbolo = caracter" + (simbolo == caracter));
@@ -17,6 +19,8 @@ public class Caracteres {
         char tabulador = '\t' ;
         char nuevaLinea = '\n' ;
         char retornoCarro = '\r' ;
+
+        System.out.println("----------------------------------------------------------------------------------------------------");
 
         System.out.println("char corresponde en \t byte= " + System.lineSeparator()  + Character.BYTES);
         System.out.println("char corresponde en bites= " + Character.SIZE);
