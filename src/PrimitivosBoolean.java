@@ -11,7 +11,8 @@ public class PrimitivosBoolean {
 
         datoLogico = d < f ;
         System.out.println("datoLogico = " + datoLogico);
-
+        boolean esIgual = 3-2 == 1 ;
+        System.out.println("esIgual = " + esIgual);
         }
 
     }
