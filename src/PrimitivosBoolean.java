@@ -13,8 +13,8 @@ public class PrimitivosBoolean {
         System.out.println("datoLogico = " + datoLogico);
         boolean esIgual = 3-2 == 1 ;
         System.out.println("esIgual = " + esIgual);
-        }
 
+        }
     }
 
 
