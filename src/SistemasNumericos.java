@@ -1,7 +1,12 @@
+import javax.swing.*;
+
 public class SistemasNumericos {
     public static void main(String[] args) {
 
-        int numeroDecimal =  500 ;
+
+        String numeroStr = JOptionPane.showInputDialog(null, "ingrese un numero entero");
+        int numeroDecimal = Integer.parseInt(numeroStr)
+                ;
         System.out.println("numeroDecimal = " + numeroDecimal);
 
         System.out.println("numero Binario de = " + numeroDecimal + " = " + Integer.toBinaryString((numeroDecimal)));
@@ -16,6 +21,8 @@ public class SistemasNumericos {
         System.out.println("numero Hexadecimal de = " + numeroOctal + " = " + Integer.toHexString(numeroDecimal));
         int numeroExadecimal = 0x1f4 ;
         System.out.println("numeroExadecimal = " + numeroExadecimal);
+
+        JOptionPane.showMessageDialog(null);
 
     }
 }
