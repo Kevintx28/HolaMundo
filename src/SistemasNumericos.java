@@ -10,6 +10,8 @@ public class SistemasNumericos {
         System.out.println("numeroDecimal = " + numeroDecimal);
 
         System.out.println("numero Binario de = " + numeroDecimal + " = " + Integer.toBinaryString((numeroDecimal)));
+
+        System.out.println("---------------------------------------------------------------------------");
         
         int numeroBinario = 0b111110100 ;
         System.out.println("numeroBinario = " + numeroDecimal);
@@ -22,7 +24,7 @@ public class SistemasNumericos {
         int numeroExadecimal = 0x1f4 ;
         System.out.println("numeroExadecimal = " + numeroExadecimal);
 
-        JOptionPane.showMessageDialog(null);
+        JOptionPane.showInputDialog(null, "ingrese un numero entero");
 
     }
 }
