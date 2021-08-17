@@ -21,10 +21,14 @@ public class SistemasNumericos {
         System.out.println("numeroOctal = " + numeroOctal);
 
         System.out.println("numero Hexadecimal de = " + numeroOctal + " = " + Integer.toHexString(numeroDecimal));
-        int numeroExadecimal = 0x1f4 ;
+        int numeroExadecimal = 0x1e ;
         System.out.println("numeroExadecimal = " + numeroExadecimal);
 
-        JOptionPane.showInputDialog(null, "ingrese un numero entero");
+        String mensaje = "numero Binario de = " + numeroDecimal + " = " + Integer.toBinaryString((numeroDecimal));
+        mensaje += "\nnumero Octal de  = " + numeroDecimal + " = " + Integer.toOctalString((numeroDecimal)) ;
+        mensaje += "\nnumero Hexadecimal de = " + numeroOctal + " = " + Integer.toHexString(numeroDecimal);
+
+        JOptionPane.showInputDialog(null, "mensaje ");
 
     }
 }
