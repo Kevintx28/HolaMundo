@@ -37,6 +37,8 @@ public class PrimitivosFloat {
 
 
 
+
+
         HashMap<Integer, String> otraLista = new HashMap<Integer, String>();
 
         otraLista.put(2, "Una vida por otra");
