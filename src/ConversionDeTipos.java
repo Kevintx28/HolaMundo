@@ -39,6 +39,8 @@ public class ConversionDeTipos {
         System.out.println("l = " + l);
         System.out.println(Short.MAX_VALUE);
 
+
+
         char b = (char) i ;
         System.out.println("b = " + b);
         float f = (float) i ;
