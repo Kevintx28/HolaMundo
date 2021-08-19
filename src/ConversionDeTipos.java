@@ -15,6 +15,7 @@ public class ConversionDeTipos {
         System.out.println("logicoBoolean = " + logicoBoolean);
 
 
+
         int otroNumeroInt = 100 ;
 
         System.out.println("otroNumeroInt = " + otroNumeroInt);
