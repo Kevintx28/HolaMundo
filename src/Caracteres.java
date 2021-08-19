@@ -2,6 +2,9 @@ import javax.lang.model.SourceVersion;
 
 public class Caracteres {
     public static void main(String[] args) {
+
+
+
         var caracter = '\u8840' ;
         var decimal = 64 ;
         System.out.println(" caracter = " + caracter);
