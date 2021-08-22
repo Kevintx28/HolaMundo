@@ -17,6 +17,7 @@ public class EjemploStringTestRendimientoConcat {
                 //sb.append(a).append(b).append("\n") ; //500 -> 0ms, 100 -> 0ms, 10000 -> 2ms,100000 -> 8ms
 
         }
+        System.out.println("---------------------------------------------------------------");
         long fin = System.currentTimeMillis() ;
         System.out.println(fin - inicio);
         System.out.println("c = " + c);
