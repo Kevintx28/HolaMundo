@@ -13,6 +13,9 @@ public class EjemploStringMetodosArreglo {
         for (int i = 0; i < largo; i ++){
             System.out.print(arreglo[i]);
         }
+
+        System.out.println("----------------------------------------------------------------------------------------------");
+
         System.out.println();
         System.out.println("\ntrabalenguas = " + trabalenguas.split("a"));
         String[] arreglo2 = trabalenguas.split("a") ;
@@ -21,6 +24,8 @@ public class EjemploStringMetodosArreglo {
             System.out.println(arreglo2[j]);
         }
 
+        System.out.println("-----------------------------------------------------------------------------------------------");
+
         String archivo = "alguna.imagen.pdf" ;
         String [] archivoArr = archivo.split( "\\.") ; // [.]
         l = archivoArr.length ;
@@ -28,6 +33,9 @@ public class EjemploStringMetodosArreglo {
         for (int j=0; j<l; j++) {
             System.out.println(archivoArr[j]);
         }
+
+        System.out.println("----------------------------------------------------------------------------------------------");
+
         System.out.println("extension  = "+ archivoArr[l-1]);
 
     }
