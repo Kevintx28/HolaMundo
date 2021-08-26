@@ -30,12 +30,18 @@ public class ConversionDeTipos {
         otroNumeroStr = String.valueOf(otroNumeroInt + 10) ;
         System.out.println("otroNumeroStr = " + otroNumeroStr);
 
+        System.out.println("---------------------------------------------------------");
+
         double otroRealDouble = 123.456 ;
         String otroRealstr = Double.toString(otroRealDouble);
         System.out.println("otroRealstr = " + otroRealstr);
 
+        System.out.println("-----------------------------------------------------------");
+
         otroNumeroStr = String.valueOf(1.23456f) ;
         System.out.println("otroRealstr = " + otroRealstr);
+
+        System.out.println("------------------------------------------------------------");
 
         int i = 22767 ;
         short s = (short) i ;
