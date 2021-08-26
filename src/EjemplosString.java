@@ -1,11 +1,15 @@
 public class EjemplosString {
     public static void main(String[] args) {
 
+        System.out.println("-------------------------------------------------");
+
         String curso = "Programacion Java" ;
         String curso2 = new String("Programacion Java") ;
 
         boolean esIgual = curso == curso2 ;
         System.out.println("curso == curso2 = " + esIgual);
+
+        System.out.println("------------------------------------------------");
 
         esIgual = curso.equals(curso2) ;
         System.out.println("curso.equals(curso2) = " + esIgual);
