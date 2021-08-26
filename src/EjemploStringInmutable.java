@@ -1,5 +1,8 @@
 public class EjemploStringInmutable {
     public static void main(String[] args) {
+
+        System.out.println("---------------------------------------------------");
+
         String curso = "Programacion Java" ;
         String profesor = "Andres Guzman" ;
 
@@ -19,6 +22,8 @@ public class EjemploStringInmutable {
 
         System.out.println("resultado = " + resultado);
         System.out.println("resultado3 = " + resultado3);
+
+        System.out.println("------------------------------------------------------");
 
     }
 }
