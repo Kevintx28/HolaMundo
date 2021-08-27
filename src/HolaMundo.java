@@ -34,6 +34,8 @@ public class HolaMundo {
         System.out.println("nombre = " + nombre);
 
         int edadPersona = 5;
+
+        System.out.println("-------------------------------------------------------------");
     }
 }
 
