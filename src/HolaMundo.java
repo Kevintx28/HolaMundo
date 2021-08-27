@@ -7,6 +7,8 @@ public class HolaMundo {
         System.out.println();
         System.out.println("saludar.toUpperCase() = " + saludar.toUpperCase());
 
+        System.out.println("-------------------------------------------------------------");
+
         int numero = 10 ;
 
         boolean valor = true ;
@@ -15,6 +17,9 @@ public class HolaMundo {
             System.out.println("numero = " + numero);
             numero2 = 11 ;
         }
+
+        System.out.println("-------------------------------------------------------------");
+
         System.out.println("numero2 = " + numero2);
         var numero3 = "10";
 
