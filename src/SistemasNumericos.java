@@ -31,7 +31,7 @@ public class SistemasNumericos {
         int numeroExadecimal = 0x1e ;
         System.out.println("numeroExadecimal = " + numeroExadecimal);
 
-
+        System.out.println("--------------------------------------------------------------------------------------------");
 
         String mensaje = "numero Binario de = " + numeroDecimal + " = " + Integer.toBinaryString((numeroDecimal));
         mensaje += "\nnumero Octal de  = " + numeroDecimal + " = " + Integer.toOctalString((numeroDecimal)) ;
