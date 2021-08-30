@@ -39,5 +39,7 @@ public class SistemasNumericos {
 
         JOptionPane.showInputDialog(null, "mensaje ");
 
+        System.out.println("--------------------------------------------------------------------------------------------");
+
     }
 }
