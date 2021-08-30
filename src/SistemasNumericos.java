@@ -19,7 +19,7 @@ public class SistemasNumericos {
         int numeroBinario = 0b111110100 ;
         System.out.println("numeroBinario = " + numeroDecimal);
 
-
+        System.out.println("--------------------------------------------------------------------------------------------");
 
         System.out.println("numero Octal de  = " + numeroDecimal + " = " + Integer.toOctalString((numeroDecimal)));
         int numeroOctal = 0764 ;
