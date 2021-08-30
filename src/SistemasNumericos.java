@@ -25,7 +25,7 @@ public class SistemasNumericos {
         int numeroOctal = 0764 ;
         System.out.println("numeroOctal = " + numeroOctal);
 
-
+        System.out.println("--------------------------------------------------------------------------------------------");
 
         System.out.println("numero Hexadecimal de = " + numeroOctal + " = " + Integer.toHexString(numeroDecimal));
         int numeroExadecimal = 0x1e ;
