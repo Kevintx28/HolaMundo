@@ -53,6 +53,8 @@ public class ConversionDeTipos {
 
         System.out.println("------------------------------------------------------------");
 
+        System.out.println("-----------------------------------------------------");
+
         int i = 22767 ;
         short s = (short) i ;
         System.out.println("s = " + s);
