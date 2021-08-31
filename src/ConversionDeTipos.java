@@ -38,6 +38,8 @@ public class ConversionDeTipos {
 
         System.out.println("---------------------------------------------------------");
 
+        System.out.println("-----------------------------------------------------");
+
         double otroRealDouble = 123.456 ;
         String otroRealstr = Double.toString(otroRealDouble);
         System.out.println("otroRealstr = " + otroRealstr);
