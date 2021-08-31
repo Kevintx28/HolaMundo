@@ -24,6 +24,8 @@ public class ConversionDeTipos {
 
         System.out.println("-------------------------------------------------------");
 
+        System.out.println("-----------------------------------------------------");
+
         int otroNumeroInt = 100 ;
 
         System.out.println("otroNumeroInt = " + otroNumeroInt);
