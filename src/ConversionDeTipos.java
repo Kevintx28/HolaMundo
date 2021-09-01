@@ -64,8 +64,6 @@ public class ConversionDeTipos {
 
         System.out.println("--------------------------------------------------------------");
 
-        System.out.println("-----------------------------------------------------");
-
         char b = (char) i ;
         System.out.println("b = " + b);
         float f = (float) i ;
