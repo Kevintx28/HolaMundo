@@ -46,7 +46,6 @@ public class ConversionDeTipos {
 
         System.out.println("-----------------------------------------------------------");
 
-        System.out.println("-----------------------------------------------------");
 
         otroNumeroStr = String.valueOf(1.23456f) ;
         System.out.println("otroRealstr = " + otroRealstr);
