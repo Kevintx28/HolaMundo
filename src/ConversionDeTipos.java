@@ -16,7 +16,7 @@ public class ConversionDeTipos {
         System.out.println("------------------------------------------------------");
 
 
-        String logicoStr = "False" ;
+        String logicoStr = "true" ;
         boolean logicoBoolean =  Boolean.parseBoolean(logicoStr) ;
         System.out.println("logicoBoolean = " + logicoBoolean);
 
@@ -54,7 +54,7 @@ public class ConversionDeTipos {
         System.out.println("s = " + s);
         long l = i ;
         System.out.println("l = " + l);
-        System.out.println(Short.MAX_VALUE);
+        System.out.println(Short.MIN_VALUE);
 
         System.out.println("--------------------------------------------------------------");
 
