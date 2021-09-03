@@ -16,7 +16,6 @@ public class ConversionDeTipos {
 
         System.out.println("------------------------------------------------------");
 
-        System.out.println("-----------------------------------------------------");
 
         String logicoStr = "False" ;
         boolean logicoBoolean =  Boolean.parseBoolean(logicoStr) ;
