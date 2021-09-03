@@ -9,7 +9,7 @@ public class ConversionDeTipos {
         System.out.println("-----------------------------------------------------");
 
 
-        String realStr = "9876543" ;
+        String realStr = "8876543" ;
         double realDouble = Double.parseDouble(realStr) ;
         System.out.println("realDouble = " + realDouble);
 
