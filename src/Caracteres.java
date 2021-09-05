@@ -33,7 +33,7 @@ public class Caracteres {
         System.out.println("character  MIN_VALUE = " + Character.MAX_VALUE);
         System.out.println("character  MAX_VALUE = " + Character.MIN_VALUE);
 
-
+        System.out.println("-----------------------------------------------------------------------------------------------------");
 
     }
 }
