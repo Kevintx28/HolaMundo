@@ -14,6 +14,7 @@ public class ConversionDeTipos {
         System.out.println("realDouble = " + realDouble);
 
         System.out.println("------------------------------------------------------");
+        System.out.println("-------------------------------------------------------");
 
 
         String logicoStr = "true" ;
