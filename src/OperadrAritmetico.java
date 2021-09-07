@@ -16,6 +16,8 @@ public class OperadrAritmetico {
         System.out.println("resta = " + resta);
         System.out.println("(i - j) = " + (i - j));
 
+        System.out.println("-------------------------------------------------------------------------------------------");
+
         int multi = i + j ;
         System.out.println("multiplicacion = " + multi);
 
