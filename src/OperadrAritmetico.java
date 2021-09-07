@@ -32,6 +32,8 @@ public class OperadrAritmetico {
         int resto = i % j ;
         System.out.println("resto = " + resto);
 
+        System.out.println("-------------------------------------------------------------------------------------------");
+
         resto = 8 % 5 ;
         System.out.println("resto = " + resto);
 
