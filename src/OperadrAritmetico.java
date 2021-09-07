@@ -10,6 +10,8 @@ public class OperadrAritmetico {
         System.out.println("suma = " + (i + j)) ;
         System.out.println("(i + j) = " + (i - j)) ;
 
+        System.out.println("-------------------------------------------------------------------------------------------");
+
         int resta = i - j;
         System.out.println("resta = " + resta);
         System.out.println("(i - j) = " + (i - j));
