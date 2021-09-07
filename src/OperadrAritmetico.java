@@ -22,9 +22,12 @@ public class OperadrAritmetico {
         System.out.println("multiplicacion = " + multi);
 
         int div = i / j ;
+
         float div2 = (float) i / (float)j;
         System.out.println("div = " + div);
         System.out.println("div2 = " + div2);
+
+        System.out.println("-------------------------------------------------------------------------------------------");
 
         int resto = i % j ;
         System.out.println("resto = " + resto);
