@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class OperadrAritmetico {
+public class OperadorAritmetico {
     public static void main(String[] args) {
 
         int i = 5, j = 4;
