@@ -19,7 +19,10 @@ public class OperadoresAsignacion {
         i *= 3 ; // j = j * 3
         System.out.println("j = " + j);
 
-
+        String sqlString = "selec * from clientes ass c" ;
+        sqlString += "where c.nombre = 'Andres' " ;
+        sqlString += " and c.activo" ;
+        System.out.println("sqlString = " + sqlString);
 
 
 
