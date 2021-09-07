@@ -5,6 +5,8 @@ public class OperadrAritmetico {
 
         int i = 5, j = 4;
 
+        System.out.println("-------------------------------------------------------------------------------------------");
+
         int suma = i + j;
 
         System.out.println("suma = " + (i + j)) ;
