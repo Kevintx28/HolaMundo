@@ -2,6 +2,7 @@ public class OperadoresIncrementales {
     public static void main(String[] args) {
 
         //Pre Incremento
+        System.out.println("----------------------------------------------");
 
         int i = 1;
         int j = ++ i ; // i = i + 1
@@ -10,6 +11,7 @@ public class OperadoresIncrementales {
         System.out.println("j = " + j);
 
         //Post Incremento
+        System.out.println("----------------------------------------------");
 
         i = 2;
         j = i++ ;
