@@ -20,12 +20,16 @@ public class OperadoresIncrementales {
         System.out.println("j = " + j);
 
         //Pre Decremento
+        System.out.println("----------------------------------------------");
+
         i = 3 ;
         j = --i ;
         System.out.println("i = " + i);
         System.out.println("j = " + j);
 
         //Post Decremento
+        System.out.println("----------------------------------------------");
+
         i = 4 ;
         j = i-- ;
         System.out.println("i = " + i);
