@@ -23,6 +23,13 @@ public class OperadoresIncrementales {
         System.out.println("i = " + i);
         System.out.println("j = " + j);
 
+        //Post Decremento
+        i = 4 ;
+        j = i-- ;
+        System.out.println("i = " + i);
+        System.out.println("j = " + j);
+
+
 
     }
 }
