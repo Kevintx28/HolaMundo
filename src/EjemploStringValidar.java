@@ -20,6 +20,7 @@ public class EjemploStringValidar {
         boolean esBlanco = curso.isBlank();
         System.out.println("esBlanco = " + esBlanco);
 
+        System.out.println("------------------------------------------------------------");
 
         if( esBlanco == false) {
         System.out.println("curso = " + curso.toUpperCase());

@@ -11,6 +11,8 @@ public class EjemploStringTestRendimientoConcat {
 
         long inicio = System.currentTimeMillis() ;
 
+        System.out.println("-----------------------------------------------------------------");
+
             for(int i = 0 ; i < 100000 ; i ++ ){
                 //c = c.concat(a).concat(b).concat("\n") ; // 500 -> 2ms, 1000 -> 4ms, 10000 -> 6ms, 100000 -> 6.725ms
                 c += a + b +"\n" ; //500 -> 19, 1000 -> 14ms, 10000 -> 74ms,100000 -> 2.277.ms
