@@ -12,6 +12,8 @@ public class EjemploStringValidar {
         }
         boolean esVacio = curso.length() == 0 ;
 
+        System.out.println("------------------------------------------------------------");
+
         System.out.println("esVacio = " + esVacio);
 
         boolean esVacio2 = curso.isEmpty();
