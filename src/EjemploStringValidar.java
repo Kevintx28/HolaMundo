@@ -32,6 +32,8 @@ public class EjemploStringValidar {
         System.out.println("curso = " + curso.toUpperCase());
         System.out.println("Bienvenido al curso".concat(curso));
 
+        System.out.println("------------------------------------------------------------");
+
         }
     }
 }
