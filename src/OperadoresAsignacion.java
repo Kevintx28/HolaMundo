@@ -4,6 +4,8 @@ public class OperadoresAsignacion {
         int i = 5 ;
         int j = i + 4 ;
 
+        System.out.println("----------------------------------------------");
+
         System.out.println("i = " + j);
         System.out.println("j = " + j);
 
