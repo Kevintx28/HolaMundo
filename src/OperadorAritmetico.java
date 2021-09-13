@@ -48,7 +48,7 @@ public class OperadorAritmetico {
         }else
             System.out.println("numero inpar= " + numero);
 
-
+        System.out.println("-------------------------------------------------------------------------------------------");
 
 
     }
