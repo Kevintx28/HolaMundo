@@ -40,6 +40,9 @@ public class OperadorAritmetico {
         System.out.println("resto = " + resto);
 
         int numero = Integer.parseInt(JOptionPane.showInputDialog("ingrese un numero")) ;
+
+        System.out.println("-------------------------------------------------------------------------------------------");
+
         if (numero % 2 == 0) {
             System.out.println("numero par = " + numero);
         }else
