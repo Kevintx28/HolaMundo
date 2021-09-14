@@ -25,6 +25,8 @@ public class OperadorAritmetico {
 
         int div = i / j ;
 
+        System.out.println("-------------------------------------------------------------------------------------------");
+
         float div2 = (float) i / (float)j;
         System.out.println("div = " + div);
         System.out.println("div2 = " + div2);
