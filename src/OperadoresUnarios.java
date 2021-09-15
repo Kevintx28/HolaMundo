@@ -22,6 +22,8 @@ public class OperadoresUnarios {
 
         System.out.println("k = " + k);
 
+        System.out.println("----------------------------------------------");
+
 
     }
 
