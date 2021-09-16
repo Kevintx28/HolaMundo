@@ -18,6 +18,8 @@ public class OperadoresUnarios {
         j = +i ;
         System.out.println("j = " + j);
 
+        System.out.println("------------------------------------------------");
+
         k = -i ;
 
         System.out.println("k = " + k);
