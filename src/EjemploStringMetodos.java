@@ -34,6 +34,8 @@ public class EjemploStringMetodos {
         System.out.println("fefewfwfew.substring(1, 4) = " + nombre.substring(3, 6));
         System.out.println("nombre.substring(1, 4) = " + nombre.substring(nombre.length()-4));
 
+        System.out.println("-------------------------------------------------------------------------------------------");
+
         String trabalenguas = "trabalenguas" ;
         System.out.println("trabalenguas.replace(\"a \" ,\") = " + trabalenguas.replace("a","."));
         System.out.println("trabalenguas = " + trabalenguas);
