@@ -48,6 +48,6 @@ public class EjemploStringMetodos {
         System.out.println(" trabalenguas ");
         System.out.println(" trabalenguas ".trim());
 
-
+        System.out.println("-------------------------------------------------------------------------------------------");
     }
 }
