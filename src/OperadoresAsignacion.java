@@ -30,7 +30,7 @@ public class OperadoresAsignacion {
         sqlString += " and c.activo" ;
         System.out.println("sqlString = " + sqlString);
 
-
+        System.out.println("----------------------------------------------");
 
 
 
