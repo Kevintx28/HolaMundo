@@ -41,7 +41,7 @@ public class OperadoresIncrementales {
         System.out.println("j = " + (j++));
         System.out.println("j = " + j);
 
-
+        System.out.println("----------------------------------------------");
 
     }
 }
