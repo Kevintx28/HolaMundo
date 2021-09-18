@@ -11,6 +11,8 @@ public class OperadoresAsignacion {
         System.out.println("i = " + j);
         System.out.println("j = " + j);
 
+        System.out.println("----------------------------------------------");
+
         i += 2 ; // i = i + 2
         System.out.println("i = " + i);
 
