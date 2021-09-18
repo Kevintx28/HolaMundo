@@ -45,5 +45,6 @@ public class PrimitivosFloat {
 
         System.out.println("->>>>"+lista.get(2)+ " : " + otraLista.get(2));
 
+        System.out.println("----------------------------------------------------------------");
     }
 }
