@@ -38,5 +38,6 @@ public class EjemploStringMetodosArreglo {
 
         System.out.println("extension  = "+ archivoArr[l-1]);
 
+        System.out.println("---------------------------------------------------------------");
     }
 }
