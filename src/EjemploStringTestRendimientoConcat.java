@@ -27,5 +27,6 @@ public class EjemploStringTestRendimientoConcat {
         System.out.println("c = " + c);
         System.out.println("sb.toString() = " + sb.toString());
 
+        System.out.println("---------------------------------------------------------------");
     }
 }
